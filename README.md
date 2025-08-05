@@ -6,7 +6,7 @@ Una animación visual ligera, responsiva y personalizable desarrollada con HTML,
 
 🔗 [Ver animación en vivo](https://omarbolanos.netlify.app/) *(reemplaza con tu link real)*
 
-![Preview](preview.png) <!-- Puedes subir una captura y renombrarla así -->
+![Preview](preview.PNG) <!-- Puedes subir una captura y renombrarla así -->
 
 ---
 

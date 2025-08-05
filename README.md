@@ -4,7 +4,7 @@ Una animación visual ligera, responsiva y personalizable desarrollada con HTML,
 
 ## 🚀 Vista previa
 
-🔗 [Ver animación en vivo](https://omarbolanos.netlify.app/) *(reemplaza con tu link real)*
+🔗 [Ver animación en vivo](https://omarbolanos.netlify.app/) 
 
 ![Preview](preview.PNG) <!-- Puedes subir una captura y renombrarla así -->
 
@@ -43,11 +43,11 @@ Edita la variable CSS en `nube.css`:
 
 💧 Cambiar los caracteres de la lluvia
 Edita la función randomText() en rain.js:
-
+``` rain.js
 function randomText() {
   const text = "01ｱｳｴｵｶｷｸｹｺ"; // Cambia o agrega caracteres tipo Matrix
   return text[Math.floor(Math.random() * text.length)];
 }
-
+```
 Creado con 💡 y 💻 por [Omar Bolaños / Shinra3245]
 

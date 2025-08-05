@@ -28,11 +28,6 @@ Una animación visual ligera, responsiva y personalizable desarrollada con HTML,
 
 ---
 
-## 📂 Estructura del proyecto
-├── index.html # Estructura principal
-├── nube.css # Estilos de nube y lluvia
-├── rain.js # Lógica de animación Matrix
-
 Edita la variable CSS en `nube.css`:
 
 ```css
